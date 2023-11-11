@@ -1,2 +1,3 @@
 #include <stdio.h>
-print("Fisrt Program");
+printf("Fisrt Program");
+printf("enter any number");
